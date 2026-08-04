@@ -1,1 +1,3 @@
 /index.php / 301
+/italy-it/* /royal-joker-it/:splat 301
+/it-IT/* /royal-joker-it/:splat 301
